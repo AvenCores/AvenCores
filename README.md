@@ -13,7 +13,7 @@
 - 💸 Telegram Channel: t.me/hzfnews
 
 # Statistics
-с
+</a>
 <a href="https://github.com/AvenCores">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AvenCore&show_icons=false&theme=vision-friendly-dark&line_height=40&title_color=fff&count_private=true"
 </a>
