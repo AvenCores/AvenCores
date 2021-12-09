@@ -7,10 +7,10 @@
 - 📫 My Telegram profile: t.me/avencores
 
 # Projects
-YouTube Channel: youtube.com/c/HZFYT
-HZF - ну как там с svchost.exe.exe: vk.com/hzforum1
-Termux Wiki: vk.com/hzftermuxwiki
-Telegram: t.me/hzfnews
+- YouTube Channel: youtube.com/c/HZFYT
+- HZF - ну как там с svchost.exe.exe: vk.com/hzforum1
+- Termux Wiki: vk.com/hzftermuxwiki
+- Telegram: t.me/hzfnews
 
 
 <a href="https://github.com/AbirAhsan?tab=repositories">
