@@ -7,10 +7,10 @@
 - 📫 My Discord Profile: avencores#6847
 
 # Projects
-- YouTube Channel: youtube.com/c/HZFYT
-- HZF - ну как там с svchost.exe.exe: vk.com/hzforum1
-- Termux Wiki: vk.com/hzftermuxwiki
-- Telegram Channel: t.me/hzfnews
+- 💸 YouTube Channel: youtube.com/c/HZFYT
+- 💸 HZF - ну как там с svchost.exe.exe: vk.com/hzforum1
+- 💸 Termux Wiki: vk.com/hzftermuxwiki
+- 💸 Telegram Channel: t.me/hzfnews
 
 # Statistics
 <a href="https://github.com/AvenCores?tab=repositories">
