@@ -3,14 +3,15 @@
 
 
 # Contacts
-- 📫 My VK profile: vk.com/avencores
-- 📫 My Telegram profile: t.me/avencores
+- 📫 My VK Profile: vk.com/avencores
+- 📫 My Telegram Profile: t.me/avencores
+- 📫 My Discord Profile: avencores#6847
 
 # Projects
 - YouTube Channel: youtube.com/c/HZFYT
 - HZF - ну как там с svchost.exe.exe: vk.com/hzforum1
 - Termux Wiki: vk.com/hzftermuxwiki
-- Telegram: t.me/hzfnews
+- Telegram Channel: t.me/hzfnews
 
 
 <a href="https://github.com/AbirAhsan?tab=repositories">
