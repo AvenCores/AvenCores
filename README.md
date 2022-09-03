@@ -15,7 +15,7 @@
 # Statistics
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AvenCores&show_icons=true&theme=monokai&count_private=true"
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AvenCores&show_icons=true&theme=dark&count_private=true"
             alt="AvenCores Github stats">
     </a>
 <a href="https://github.com/AvenCores?tab=repositories">
