@@ -13,11 +13,11 @@
 - 💸 Telegram Channel: t.me/hzfnews
 
 # Statistics
-<div align="center" style="text-align:center">
+<div align="left" style="text-align:center">
     <a href="#">
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AvenCores&show_icons=true&theme=dark&count_private=true"
             alt="AvenCores Github stats">
     </a>
 <a href="https://github.com/AvenCores?tab=repositories">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AvenCores&theme=dark&hide_langs_below=0&title_color=FFF" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AvenCores&theme=dark&hide_langs_below=0&title_color=FFF" />
 </a>
