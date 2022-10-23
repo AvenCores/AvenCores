@@ -8,9 +8,9 @@
 
 # Projects
 - 💸 YouTube Channel: youtube.com/c/HZFYT
+- 💸 Telegram Channel: t.me/hzfnews
 - 💸 HZF - ну как там с svchost.exe.exe: vk.com/hzforum1
 - 💸 Termux Wiki: vk.com/hzftermuxwiki
-- 💸 Telegram Channel: t.me/hzfnews
 
 # Statistics
 <div align="left" style="text-align:center">
