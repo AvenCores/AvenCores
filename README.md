@@ -19,7 +19,7 @@
 + **Sber**: 2202 2050 7215 4401
 + **VTB**: 2200 2404 1001 8580
 
-# Statistics
+# 🐍 Statistics
 <div align="left" style="text-align:center">
     <a href="#">
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AvenCores&show_icons=true&theme=dark&count_private=true"
