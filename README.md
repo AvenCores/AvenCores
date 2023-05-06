@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-# Contacts
+# 👨 Contacts
 - 📫 My VK Profile: vk.com/avencores
 - 📫 My Telegram Profile: t.me/avencores
 - 📫 My Discord Profile: avencores#6847
 
-# Projects
+# 🤖 Projects
 - 💸 YouTube Channel: youtube.com/@hzfmain
 - 💸 Telegram Channel: t.me/hzfnews
 - 💸 Discord Channel: discord.com/invite/7bneGfUS5h
