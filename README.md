@@ -14,6 +14,11 @@
 - 💸 HZF - ну как там с svchost.exe.exe: vk.com/hzforum1
 - 💸 Termux Wiki: vk.com/hzftermuxwiki
 
+# 💰 Donate
++  **QIWI Wallet**: [**`Transferring money by nickname`**](https://qiwi.com/n/AVENCORESDONATE)
++ **Sber**: 2202 2050 7215 4401
++ **VTB**: 2200 2404 1001 8580
+
 # Statistics
 <div align="left" style="text-align:center">
     <a href="#">
