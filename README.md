@@ -4,7 +4,7 @@
 # 👨 Contacts
 - 📫 My VK Profile: vk.com/avencores
 - 📫 My Telegram Profile: t.me/avencores
-- 📫 My Discord Profile: avencores#6847
+- 📫 My Discord Profile: avencores
 
 # 🤖 Projects
 - 💸 YouTube Channel: youtube.com/@hzfmain
