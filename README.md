@@ -7,7 +7,7 @@
 - 📫 My Discord Profile: avencores
 
 # 🤖 Projects
-- 💸 YouTube Channel: youtube.com/@hzfmain
+- 💸 YouTube Channel: youtube.com/@avencores
 - 💸 Telegram Channel: t.me/hzfnews
 - 💸 Discord Channel: discord.com/invite/7bneGfUS5h
 - 💸 ChatGPT - Бесконечный контент: vk.com/chatgptcontent
