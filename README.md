@@ -8,11 +8,7 @@
 
 # 🤖 Projects
 - 💸 YouTube Channel: youtube.com/@avencores
-- 💸 Telegram Channel: t.me/hzfnews
-- 💸 Discord Channel: discord.com/invite/7bneGfUS5h
-- 💸 ChatGPT - Бесконечный контент: vk.com/chatgptcontent
-- 💸 HZF - ну как там с svchost.exe.exe: vk.com/hzforum1
-- 💸 Termux Wiki: vk.com/hzftermuxwiki
+- 💸 Telegram Channel: t.me/avencoresyt
 
 # 💰 Donate
 +  **QIWI Wallet**: [**`Transferring money by nickname`**](https://qiwi.com/n/AVENCORESDONATE)
