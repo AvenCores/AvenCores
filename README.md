@@ -9,6 +9,7 @@
 # 🤖 Projects
 - 💸 YouTube Channel: youtube.com/@avencores
 - 💸 Telegram Channel: t.me/avencoresyt
+- 💸 VK Group: vk.com/avencoresvk
 
 # 💰 Donate
 +  **QIWI Wallet**: [**`Transferring money by nickname`**](https://qiwi.com/n/AVENCORESDONATE)
