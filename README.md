@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Feel free to browse through my projects and get in
 ## 💖 Support My Work
 Donations are always welcome and help me dedicate more time to creating content and open-source projects.
 
-- **Sber**: `2202 2050 7215 4401`
+- **SBER**: `2202 2050 7215 4401`
 - **VTB**: `2200 2404 1001 8580`
 
 ## 📊 My GitHub Statistics
