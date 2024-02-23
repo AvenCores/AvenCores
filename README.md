@@ -9,6 +9,8 @@ Welcome to my GitHub profile! Feel free to browse through my projects and get in
 
 ## ✨ My Work
 - YouTube Channel: [avencores](https://youtube.com/@avencores)
+- Dzen Channel: [avencores](https://dzen.ru/avencores)
+- Rutub channel: [avencores](https://rutube.ru/channel/34072414/)
 - Telegram Channel: [avencoresyt](https://t.me/avencoresyt)
 - VK Group: [avencoresvk](https://vk.com/avencoresvk)
 
