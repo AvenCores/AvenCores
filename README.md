@@ -1,4 +1,4 @@
-# Hi there 👋, I'm AvenCores!
+j# Hi there 👋, I'm AvenCores!
 
 Welcome to my GitHub profile! Feel free to browse through my projects and get in touch if you'd like to collaborate.
 
@@ -18,7 +18,6 @@ Welcome to my GitHub profile! Feel free to browse through my projects and get in
 Donations are always welcome and help me dedicate more time to creating content and open-source projects.
 
 - **SBER**: `2202 2050 7215 4401`
-- **VTB**: `2200 2404 1001 8580`
 
 ## 📊 My GitHub Statistics
 
