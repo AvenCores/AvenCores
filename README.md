@@ -5,7 +5,6 @@ Welcome to my GitHub profile! Feel free to browse through my projects and get in
 ## 📬 Contacts
 - VK: [avencores](https://vk.com/avencores)
 - Telegram: [avencores](https://t.me/avencores)
-- Discord: avencores
 
 ## ✨ My Work
 - YouTube Channel: [avencores](https://youtube.com/@avencores)
