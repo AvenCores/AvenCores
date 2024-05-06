@@ -1,4 +1,4 @@
-j# Hi there 👋, I'm AvenCores!
+# Hi there 👋, I'm AvenCores!
 
 Welcome to my GitHub profile! Feel free to browse through my projects and get in touch if you'd like to collaborate.
 
