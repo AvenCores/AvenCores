@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! Feel free to browse through my projects and get in touch if you'd like to collaborate.
 
 ## 📬 Contacts
-- VK: [avencores](https://vk.com/avencores)
 - Telegram: [avencores](https://t.me/avencores)
+- VK: [avencores](https://vk.com/avencores)
 
 ## ✨ My Work
 - Telegram Channel: [avencoresyt](https://t.me/avencoresyt)
