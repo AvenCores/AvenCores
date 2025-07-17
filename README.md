@@ -20,11 +20,10 @@ Donations are always welcome and help me dedicate more time to creating content 
 
 ## 📊 My GitHub Statistics
 
-<div align="center">
-    <a href="https://github.com/AvenCores">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AvenCores&show_icons=true&theme=dark&count_private=true" alt="AvenCores Github stats" />
-    </a>
-    <a href="https://github.com/AvenCores?tab=repositories">
-        <img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AvenCores&theme=dark&hide_langs_below=0&title_color=FFF" alt="Top Languages" />
-    </a>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AvenCores&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvenCores&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=AvenCores&theme=github-dark&hide_border=true" />
+  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=AvenCores&theme=darkhub&no-bg=true&no-frame=true" />
+</p>
+
