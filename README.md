@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm AvenCores!
+# Hi there ![wavey](https://raw.githubusercontent.com/FragileDeviations/FragileDeviations/main/wavey.gif), I'm AvenCores!
 
 Welcome to my GitHub profile! Feel free to browse through my projects and get in touch if you'd like to collaborate.
 
