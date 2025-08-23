@@ -5,15 +5,15 @@
 Welcome to my GitHub profile! Feel free to browse through my projects and get in touch if you'd like to collaborate.
 
 ## 📬 Contacts
-- Telegram: [avencores](https://t.me/avencores)  
-- VK: [avencores](https://vk.com/avencores)
+Telegram: [avencores](https://t.me/avencores)  
+VK: [avencores](https://vk.com/avencores)
 
 ## ✨ My Work
-- Telegram Channel: [avencoresyt](https://t.me/avencoresyt)  
-- YouTube Channel: [avencores](https://youtube.com/@avencores)  
-- VK Group: [avencoresvk](https://vk.com/avencoresvk)  
-- Dzen Channel: [avencores](https://dzen.ru/avencores)  
-- Rutub channel: [avencores](https://rutube.ru/channel/34072414/)
+Telegram Channel: [avencoresyt](https://t.me/avencoresyt)  
+YouTube Channel: [avencores](https://youtube.com/@avencores)  
+VK Group: [avencoresvk](https://vk.com/avencoresvk)  
+Dzen Channel: [avencores](https://dzen.ru/avencores)  
+Rutub channel: [avencores](https://rutube.ru/channel/34072414/)
 
 ## 💖 Support My Work
 Donations are always welcome and help me dedicate more time to creating content and open-source projects.  
