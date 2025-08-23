@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Feel free to browse through my projects and get in
 Telegram: [avencores](https://t.me/avencores)  
 VK: [avencores](https://vk.com/avencores)
 
-## ✨ My Work
+## ✨ My Blog
 Telegram Channel: [avencoresyt](https://t.me/avencoresyt)  
 YouTube Channel: [avencores](https://youtube.com/@avencores)  
 VK Group: [avencoresvk](https://vk.com/avencoresvk)  
