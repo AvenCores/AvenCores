@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет ![wavey](https://raw.githubusercontent.com/FragileDeviations/FragileDeviations/main/wavey.gif), я AvenCores!
+# Привет ![wavey](https://raw.githubusercontent.com/FragileDeviations/FragileDeviations/main/wavey.gif), я avencores!
 
 Добро пожаловать в мой профиль на GitHub! Не стесняйтесь просматривать мои проекты и связываться со мной, если хотите сотрудничать или задавать вопрос.
 
