@@ -28,8 +28,8 @@ YouTube-канал: [avencores](https://youtube.com/@avencores)
 </p>
 
 ## 👁️‍🗨️ Счётчик посетителей
-<img src="https://komarev.com/ghpvc/?username=AvenCores&label=Посетителей&color=0e75b6&style=flat-square" alt="Счётчик посетителей" />  
+<img src="https://komarev.com/ghpvc/?username=AvenCores&label=Visitors&color=0e75b6&style=flat-square" alt="Visitor Count" />  
 <br/>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=AvenCores.visitor-badge&left_color=black&right_color=green&left_text=Кибер+посещения" alt="Кибер посещения"/>  
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AvenCores.visitor-badge&left_color=black&right_color=green&left_text=Cyber+Hits" alt="Cyber Hits"/>  
 
 </div>
