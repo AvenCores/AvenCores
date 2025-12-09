@@ -22,7 +22,7 @@ YouTube-канал: [avencores](https://youtube.com/@avencores)
 
 ## 📊 Моя статистика GitHub
 
-![GitHub Card](https://githubcard.com/AvenCores.svg)
+![GitHub Card](https://githubcard.com/AvenCores.svg?d=ddToA8Z2)
 
 ## 👁️‍🗨️ Счётчик посетителей
 <img src="https://komarev.com/ghpvc/?username=AvenCores&label=Visitors&color=0e75b6&style=flat-square" alt="Visitor Count" />  
