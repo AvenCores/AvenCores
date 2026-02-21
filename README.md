@@ -9,8 +9,8 @@
 ВК: [avencores](https://vk.com/avencores)
 
 ## ✨ Мой блог
-Телеграм-канал: [avencoresyt](https://t.me/avencoresyt)  
-YouTube-канал: [avencores](https://youtube.com/@avencores)  
+Телеграм канал: [avencoresyt](https://t.me/avencoresyt)  
+YouTube канал: [avencores](https://youtube.com/@avencores)  
 Группа ВК: [avencoresvk](https://vk.com/avencoresvk)  
 Канал на Дзене: [avencores](https://dzen.ru/avencores)  
 Канал на Rutube: [avencores](https://rutube.ru/channel/34072414/)
