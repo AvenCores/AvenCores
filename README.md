@@ -5,15 +5,15 @@
 Добро пожаловать в мой профиль на GitHub! Не стесняйтесь просматривать мои проекты и связываться со мной, если хотите сотрудничать или задавать вопрос.
 
 ## 📬 Контакты
-Телеграм - [ССылка](https://t.me/avencores)  
-ВК - [ССылка](https://vk.com/avencores)
+Телеграм - [Ссылка](https://t.me/avencores)  
+ВК - [Ссылка](https://vk.com/avencores)
 
 ## ✨ Мой блог
-Телеграм канал - [ССылка](https://t.me/avencoresyt)  
-YouTube канал - [ССылка](https://youtube.com/@avencores)  
-Группа ВК - [ССылка](https://vk.ru/avencoresreuploads)  
-Канал на Дзене - [ССылка](https://dzen.ru/avencores)  
-Канал на Rutube - [ССылка](https://rutube.ru/channel/34072414/)
+Телеграм канал - [Ссылка](https://t.me/avencoresyt)  
+YouTube канал - [Ссылка](https://youtube.com/@avencores)  
+Группа ВК - [Ссылка](https://vk.ru/avencoresreuploads)  
+Канал на Дзене - [Ссылка](https://dzen.ru/avencores)  
+Канал на Rutube - [Ссылка](https://rutube.ru/channel/34072414/)
 
 ## 💰 Поддержать автора
 Пожертвования всегда приветствуются и помогают мне уделять больше времени созданию контента и проектов с открытым исходным кодом.
